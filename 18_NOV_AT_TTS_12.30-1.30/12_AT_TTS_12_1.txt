@@ -1,0 +1,191 @@
+Java ? ---- Programmin Lanaguge 
+	OOP
+	-develope any kind of application	
+	- 
+
+---Fundamentals 
+	variables 
+	data types
+	conditional stmt
+	loops
+	control statement
+	arrays
+---OOPS
+---File Handling
+-Exception
+-Collection
+
+Intallation 
+	java + eclipse + Antigravity 
+	
+
+
+first structure 
+
+Software ?   Set of program , have some spefic purpose
+	  --- MS-office , amazone , insta , 
+program ? 
+	    Set of instructions , have some specific purpose 	
+		follow syntext  , rules 
+
+java structure ---- 
+1. package stmt
+1. comments  (documentation - non executable part )
+2. import stmt 
+3. class declaration 
+
+class cls1
+{
+	main - method
+	{
+		code.......
+	}
+}
+
+1. program to demonstate java basic program to display "Hello World"
+
+WorkSpace ---- place/folder where you can have your projects 
+
+		
+public static void main(String args[])
+{
+}
+
+Lab Task : Variables and data types 
+
+14th Feb 
+
+datatype --- which kind of data types --- mobile -- address 
+name -
+
+variables --- indetifier , to identify something 
+	  --- value change
+
+java ---- int , float , double , boolean , char ,short , byte ---primitive data types 
+non primitive --- array ,class 
+
+i want to store number 
+
+variable declare number
+2 interger variable dclaration 
+int no1,no2;
+no1=100;
+no2=200;
+
+store 2 percentage 
+float no1=89.34f;
+float no2=70.33f;
+
+declare 2 variables,give values and print those variables 
+
+1. accept 2 int number user 
+Scanner -- inbuit class -- methods 
+first create object of that 
+
+Lab Task : accept student details like 
+name , age , address , email , marks and percentage from user and print it
+
+17th Feb
+  --- Scanner scan=new Scanner(System.in);
+	scan is object of Scanner class
+
+arithmatic 
+relational/comparison operators , >,<,>=,<=,==,!= 
+true/false
+
+no1=10  no2=20
+no1>no2   10>20  --- false
+no1<no2   10<20  --- true
+
+
+
+Lab Task :  >,<,>=,<=,==,!=
+
+
+conditional stmt --- 
+if
+if-else
+if-else if
+nested if
+
+enter age 
+if(condition)
+{
+	block_of_stmt
+}
+
+---print user is eligible for voting if user has entered age more then 18 years 
+if(age>18)
+{
+	sop("User is eligile for votting");
+}
+
+--- print number is Positive or Negative
+eg num=10
+   Number is Positive
+   num=-10
+   Number is Nagative 
+  if(num>0)
+
+---print number is even or odd 
++,-,*,/,% (module/reminder )
+
+	num>0  = positive
+	num<0  = Nagative
+	num==0 = zero
+---Lab Task : check the give year is leap year or not 
+input =2000
+       2000 is leap year
+
+input 2003
+	2003 is not leap year
+		
+21st feb 
+	- >,<,Operators , accept input from user , sop , main ,relational operators , coditional stmt - if ,if else 
+
+
+installation - java-eclipse
+variables 
+data types 
+Scanner ( acept from user )
+Operators 
+	Arithmatic (+,-,*,/,%)
+	Relational operator (>,<,>=,<=,!=,==)
+
+conditional stmt 
+	if
+	if-else 
+	if -else if 
+
+	1. number 2 ke 3 digit number
+	input =20
+	output = 2
+	input =208
+	output =3 
+	input = 10000
+	output = invalid
+
+
+	number is between 10 and 99  number>=10 && number<=99
+	number is between 100 and 999 number>=100 && number<=999
+	
+	logical opetor --- && , || ,!
+
+
+	check number is divisable by 5 and 7 
+	21  no
+	35  yes
+
+	enter age 
+	0-2 --- infant
+	3-18 - minor
+	19-50 - adult
+	51-70 - seniur
+	71 - super senior 
+
+Lab Task :1. find maximum number among 3 numbers
+	 2. enter day number and print day name
+	input = 1
+	output = Monday
+
+
