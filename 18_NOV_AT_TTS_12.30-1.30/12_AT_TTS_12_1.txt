@@ -188,4 +188,57 @@ Lab Task :1. find maximum number among 3 numbers
 	input = 1
 	output = Monday
 
+no1
+no2
+no3
+if(no1>no2 && no1>no3)
+{
+	sop(no1)
+}else if(no2>no1 && no2>no3)
+{
+	sop(no2)
+}else
+{
+	sop(no3)
+}
+if(day==1)
+{
+	sop("monday")
+}else if(day==2)
+	sop("tuesday")
+
+when you have mulitple conditions/options at that time rather then use if-else if use switch case .It is very easy to use and readable
+
+switch case 
+
+switch(condition)
+{
+	case :	code
+	case :	 code 
+}
+
+
+loops ---- repeatation -
+print "hello world" 10
+print "hello world" 25
+print "hello world" 100
+
+loops
+3 loops 
+1. for ---- for  
+for(inilization;condition;increment/decrement)
+{
+	block_of_code
+}
+first initlization i=1
+second it checks condition 1<=10
+then it execute block
+after it go for increment i=2
+not check condition 2<=10
+11<=10
+
+10 20 
+
+2. while
+3 do while
 
