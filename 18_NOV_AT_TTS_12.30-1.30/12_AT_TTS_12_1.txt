@@ -242,3 +242,56 @@ not check condition 2<=10
 2. while
 3 do while
 
+26th Feb
+--for loops
+loops --- relpeatation 
+
+number * i =number*i
+5 * 1 = 5
+5 * 2 =10
+
+
+while --- repeation 
+syntax 
+while(condition)
+{
+	block
+}
+1-10 print 
+for(int i=1;i<=10;i++)
+{
+	print(i);
+}
+
+int i=1;
+while(i<=10)
+{
+	print(i);
+	i++;
+}
+
+Lab task : Mulication with while loop 
+with for loop from 1-100 find out number divisable by 5 and 7
+
+for   - entry control loop , when we know no of iteration in adavanced 
+while - entry control , when we don't know no of iteration in advanced 
+do...while -- exit control , it will execute at least once 
+
+do
+{
+	block of stmt
+}while(condition);
+
+Menu driven Program 
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+5. Exit
+Enter your choice : 1
+enter number 1 and 2 : 12 2
+ans = 14
+
+
+Lab task : menu driven program with do while
+
