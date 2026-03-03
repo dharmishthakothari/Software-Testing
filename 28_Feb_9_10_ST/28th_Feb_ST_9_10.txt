@@ -1,0 +1,77 @@
+3rd March
+	- Fundamentals --SDLC - Models - Roles and Resposibility
+	-Manual Testing
+		Testing?How ?When to start/stop?
+		Risk , Types of Risk
+		STLC
+		Testing Level 
+		Functional - Non Functional
+		Regression-Retesting , Smoke ,Sanity
+		Test scenarios , Test cases , Defect Reports 
+		
+		Jira ,Postman/API Testing 
+		Database Testing/SQl
+
+		Java - Core -
+		Selenium IDE
+		Selenium WebDriver
+		TestNG 
+		JMeter 
+		Appium 
+
+
+SDLC --- > Software Developement Life Cycle
+	Software ? 
+	Set of programs -- Set of Data 
+	whatsapp , insta , 
+	-application which have some specific purpose 
+	--software development have some process this process contains pharese
+		i)Requirement gathering
+			--find Customer requirement 
+			--collect those requirment 
+		ii) Analysis 
+			--to analyse the requirement 
+			--functional and non functional requirement		?
+			Functionality --gmail
+				mail-sent , receive
+				Draft 
+				uploading/attach
+				store/delete/promotion/spam
+			non functionaltiy --- gmail
+				easy to use 
+				secureity
+				responce time 
+				no of user /load
+
+			Which requirement is more imp?
+			both are equally important
+			
+				
+			
+			-- SRS documenet 	--- 
+
+Task : Social media SRS documentaion 
+
+	Use case diagram ---
+1. users/actor ---end user/registerUser/Visitors /admin
+2. activity 	 --- post,reel , story , comments ,chats,share,like...... 		
+
+
+Actor --- buyers , sellors , partners , promoters , end user
+Acitivity --- 
+		Purchasing		-- End User
+		Browsing/Searching	--End user
+		Filtering		End user	
+		Review			End user
+		Ordering		End User , Sellor 
+		Payment			End user  , Sellor
+		uploading Items /edit /stock mantains Sellor
+
+iii) Designing ---	Page design ,	looks ,database design
+iv) coding/implemtation --- development 
+	use languages/technolgies and do the coding
+v) Testing 
+		Check , Verify , validate
+vi) Mantainance 
+		after deployment/deliver if any changes is thr then it in maintaintce , logested phares
+
