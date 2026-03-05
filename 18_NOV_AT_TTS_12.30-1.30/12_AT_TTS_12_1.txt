@@ -295,3 +295,20 @@ ans = 14
 
 Lab task : menu driven program with do while
 
+5th March 
+
+control statement 
+-break  ---  terminate loop based on condition 
+-continue  --- skip the current iteration based on condition 
+
+---fibo series
+0+1=1 1 1 2 3 5 8 13 
+0 1 1 2 3 5 8 13 21
+
+a=0
+b=1
+sum=0
+iteration 1
+---print(a)
+	
+
