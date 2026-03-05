@@ -75,3 +75,65 @@ v) Testing
 vi) Mantainance 
 		after deployment/deliver if any changes is thr then it in maintaintce , logested phares
 
+5th march 
+  --- SDLC
+  ---SRS
+  ---Use Case
+  ---Roles 
+		Developer
+		Team Leader
+		Tester
+		WebDesigner
+		PM
+		HR
+		Analyst
+		AI Engineers
+		BDE/BA
+		System Analyst , PM 
+		WD ,UI/UX Developer , Graphics Developer
+		Backend Developer , Python/Java/PHP/Node Developers , Full Stack Developer ,fronend 
+		Testert,Test Manger , Test leader , QA,QC 
+		Tech Support ,executive ....
+		Stack Holders ---- whoever invlove in project 
+Testing--- find errors and bugs 
+		---error free and reliable /effiecent 
+		---check the requirement are fulfill or not
+		--
+
+Software Testing ---  Is process to find bugs and errors in the system to intent to the system should work as expected .
+--process
+---find errors
+--fulfill requirement
+
+When to start and when to Stop?
+
+Start ? 
+		As soon as possible 
+		when requirements are fixed /partially fixed 
+		QA/Tester must be involed at teh begining of project
+		Static Testing /Dynamic Testing 
+		static --- with out executing software ,review the document(SRS,Test cases...)
+					eg. Review , walkthrought , inspection
+				--prevention activity ,finind and fixing the bug cheaper 
+		Dynamic --with executing software 
+				eg. functional and non-function testing
+
+
+SDLC --Models (arrangement of phares)
+		1. Sequential Model eg. waterfall , V model
+					waterfall --- when requrements are static/fixed ,project is short .
+					V-Model --- Verification and Validation Model 
+
+https://www.geeksforgeeks.org/software-engineering/difference-between-v-model-and-waterfall-model/
+
+diffrential verfication and validation 
+
+
+
+		2. Iterative model  eg Spiral , Agile , iterative and incremental 
+
+Lab Task : read Agile , verification and validation 
+
+
+
+		
