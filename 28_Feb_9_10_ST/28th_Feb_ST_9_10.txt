@@ -134,6 +134,70 @@ diffrential verfication and validation
 
 Lab Task : read Agile , verification and validation 
 
+7th march 
 
+Agile   --- 
+		medium to large projects 
+		iteration  --- 2-4 weeks 
+		team size 
+		feedback 
+		menifesto 4	
+			1. individual and interaction   ---- stand up 5 minutes 
+			2. Customer collabration     ---- 
+			3. Responde to change		----  whatever customer wants , we will change 	
+			4. Working Software  		--- communicating with client , with some software/iteration rather then doucmentation .
+
+		12 principles 
+
+		eg. scrum ,xtrem programming 
+
+
+V - Model 
+	verification ---- review(static) ,developerment  , process is going ok or not
+	Validation ---actual testing(dynamic)/testing ,Product is ok or not 
+
+Spiral model 
+
+ --- large size project 
+ --- project risk 
+---- planning, analisys/Risk , developing/Engineering , validating 
+---iteration 
+
+
+Software Testing means ?
+--Principle of Software Testing 
+7 key principles 
+
+1. Testing shows presence of defect 
+		by doing testing probability for finding /fixing of defect may be cover but it's doesn't mean product/software is 100% bug free.
+
+2. Early Testing 
+		Testing must be start as early as possible.
+3. exhastive testing 
+		testing each field with each cobmination of data is not possible (m. no could not check with all valid/invalid data)
+
+4. Petiside paradox 
+	review and revised the test cases periodically 
+
+5. Defect Clustring 
+small no of module may contains more defect then the larger module
+
+6. Tesing is context depend
+	baking application and social media context are different to test
+
+7 Absence of error fallcay
+	project doen't have any defect but also did not fulfill user requirement .
+	it's no use.
+
+
+---TEst scenarios --- real object 
+---HLR ---High Level Requrement 
+
+Lab Task : Principles - agile -12
+			Principles - Testing - 7
+		 : Find actual failure of software 
+
+			
 
 		
+
