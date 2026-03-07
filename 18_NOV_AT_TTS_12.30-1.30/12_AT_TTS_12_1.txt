@@ -310,5 +310,48 @@ b=1
 sum=0
 iteration 1
 ---print(a)
+
+7th March 
+
+---control statments 
+break   --- break loop based condition 
+continue --- skip the current iteration based on condition 
+
+Program1  ---- 
+
+prime no ----- no is divisable by 1 and no itself  3 , 5 ,13,17,11,19
+
+loop , condition 
+number =5
+
+number % 2
+number % 3
+number% 4
+
+number = 13
+number%2
+number%3
+number%4
+number%5
+..
+...
+...
+number%12
+
+number=14
+14%2==0 (Not Prime)
+
+for(i=2;i<number;i++)
+{
 	
+}
+Fibo series ----  0 1 1 2 3 5 
+a=0
+b=1
+loop
+	print a
+	sum=a+b  ///0+1 //sum=1
+	a=b
+	b=sum
+
 
