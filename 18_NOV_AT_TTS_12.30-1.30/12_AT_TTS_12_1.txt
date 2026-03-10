@@ -354,4 +354,25 @@ loop
 	a=b
 	b=sum
 
+10th March 
+Lab task : input - 2345
+			output total_even_nos are = 2
+					total odd nos are =2
+			input -6654
+				even -- 3
+				odd --1
+
+
+Pattern input=4 row and col 
+	j=1
+i=1	*
+i=2	* *  j=1  --j2
+i=3	*  *  *  j=1 j=2 j=3
+
+save as print(i)
+print(j)
+
+*  *  *  *
+
+
 
