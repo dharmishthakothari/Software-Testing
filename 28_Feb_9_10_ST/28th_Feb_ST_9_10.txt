@@ -197,7 +197,56 @@ Lab Task : Principles - agile -12
 			Principles - Testing - 7
 		 : Find actual failure of software 
 
-			
+10th Feb 
+----HLR --- HIGH LEVEL REQUIREMENT 
+Main/High Level requirements 
+eg.
+Amazon
+----orders
+----payment
+---wish list
+----searching/browing
+----Signup 
+---checkout
+--reviews/rating
+
+facebook
+---- signup
+----post/story
+---notification/comments
+---messages 
+---friend
+---advertisement
+----
+
+College managmenet system
+----singup
+----courses
+---curriculum
+---campus
+---team
+---events/placementes 
+---calender
+---result
+---administratir
+--examination 
+
+Lab Task : create HLR for e-commerce , Railway reservation , makemytrip
+
+Test sceanrio ---- condition 
+actual object na scenario 
+---fan 
+---chair
+
+Lab Task :
+-Switch board
+-table
+-bottle
+-pen
+
+
+
 
 		
+
 
