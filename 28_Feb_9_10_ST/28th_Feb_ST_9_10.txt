@@ -244,9 +244,61 @@ Lab Task :
 -bottle
 -pen
 
+12th March 
+
+ERROR ----> DEFECT ---> FAILURE 
+ERROR ---- generally during developement
+DEFECT/BUG ---during testing we found
+-- Diffrence between exptected result and actual result is Defect
+FAILURE ---during actual execution/used 
+---Fucntion is not working as expected .eg uploading file is crashing app in job portal.
+
+----WHEN TESTER FOUND DEFECT BUT DEVELOPER DID NOT REPRODUCED IT 
+1. Envirnment may be change
+2. Test Data
+3. All the screeshot/or may recoding 
+4. involve sinours 
+5. refer requirement document.
+
+
+STLC ---Software Testing Life Cycle 
+--> Activities 
+	planning
+	test scenarios
+	test cases creating
+	test data
+	test case execute ---logging actual result / pass/fail
+	logging/repoting
+	cloure report
+-- STLC vs SDLC 
+SDLC --- about developing software /includes all the phares
+	---about the testing software 
+
+STLC is subset of SDLC
+
+STLC steps
+1. Requirement Analysis
+	--Analyse each requirement 
+2. Test planning
+	This actvity includes whole planning of Testing
+	like 
+		scope of testing
+		resource planning (man power , time , budget)
+		Tools and Technologies (which tool we are using ? automation --commercial tool ?opensource )
+		skill people 
+		all other acvity sceduling 
+		delivrable of this phare is TEST PLAN DOCUMENT.
+
+LAB TASk : Find Test Plan document of E-Commerce and Ticke booking application 
+--Test plan template 
+		
+
+	
+
 
 
 
 		
+
 
 
