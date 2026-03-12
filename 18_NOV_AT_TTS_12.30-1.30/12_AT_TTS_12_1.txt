@@ -371,8 +371,53 @@ i=3	*  *  *  j=1 j=2 j=3
 
 save as print(i)
 print(j)
+col print
+1
+12
+123
+1234
+_______
+row print
+1
+22
+333
+4444
 
-*  *  *  *
+12th March 
+
+Lab task : all programs with while you have to do it again with do ...while()
+
+Control statements --- break,continue 
+
+ARRAY ---> 
+store mulitple values in sigle variables 
+name1="Sona"
+name2="Maitri"
+name3="Prayusha"
+
+String names[];
+Rollnumber array
+int roll_number[];
+tempreture float define  array 
+float tempreture[];
+
+declaration initlization 
+int roll_no[]={11,12,13,14}
+
+second method
+int roll_no=new int[10];
+roll_no[0]=11;
+roll_no[1]=12;
+roll_no[2]=13;
+roll_no[3]=14;
+
+---print even number from an array
+
+Lab Task : Print length/size of each string from an string array
+String names[] = { "Prusha", "Dharmishtha", "Vidhi" };
+output : Prusha ----> 6
+Dharmishtha ----> 11
+Vidhi -----> 5
 
 
 
