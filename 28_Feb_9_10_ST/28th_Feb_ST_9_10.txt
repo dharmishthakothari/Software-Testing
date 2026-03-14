@@ -292,7 +292,34 @@ STLC steps
 LAB TASk : Find Test Plan document of E-Commerce and Ticke booking application 
 --Test plan template 
 		
+14th march 
 
+test Plan ---- document which contains all the plan information related to testing activity for project
+			like introdution
+				scope
+				purpose
+				stretagy
+				resource planning
+				envirnment
+				tools/technologies 
+				schedule
+				roles and respobility
+				entry/exit creteria
+				deliverables 
+---- 
+
+RTM --- Requirement Treacebility Matrix 
+--mapping of requirements and test cases 
+			tc1		tc2		tc3		tc4		......
+requ1		Y		N		Y		Y
+requ2		Y		Y		N		N
+requ3		Y		Y		Y		N
+
+STLC
+
+next Test Scenarios , Test cases 
+
+			
 	
 
 
