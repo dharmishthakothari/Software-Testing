@@ -419,5 +419,11 @@ output : Prusha ----> 6
 Dharmishtha ----> 11
 Vidhi -----> 5
 
+14th March 
+Array --- second 
+
+sum of all array element 
+--dynamic no of element 
+--elements 
 
 
