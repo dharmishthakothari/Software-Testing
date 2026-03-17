@@ -426,4 +426,48 @@ sum of all array element
 --dynamic no of element 
 --elements 
 
+17th March 
+--- Enter no of elements ---3
+Enter element 1 =12
+Enter element 2 =30
+Enter element 3= 50
+Enter element that you want to search =500
+500 is not in array.
+
+2D array 
+Matrix --- row /column
+
+int[] number=new int[5];
+
+2x2
+1 23
+45 67
+
+2x3
+1 2 3
+33 44 55
+
+3x3
+1 2 3
+4 5 6
+7 8 9
+number[i]
+0,0   0,1
+1      2
+23(1,0)45(1,1)
+
+2x3
+
+12(0,0)	34(0,1)	67(0,2)
+56(1,0)	78(1,1)	90(1,2)
+
+3x3
+	  Col0  col1 col2
+ROW --0 23	56	89
+ROW --1 67	90	67
+ROW --2 77	65	7
+
+int matrix[][]=new int[3][3];
+int matrix[][]={{23,56,89},{67,90,67},{77,65,7}}
+
 
