@@ -470,4 +470,41 @@ ROW --2 77	65	7
 int matrix[][]=new int[3][3];
 int matrix[][]={{23,56,89},{67,90,67},{77,65,7}}
 
+19th March 
+
+----
+12	23  2
+23	45  2
+
+
+condition stateents 
+operators 
+loops
+control stmts
+array
+--OOPS
+1. class & object    ----class is blueprint (data/function)
+						Human --dharmishtha hands,legs,head,hands.....speaking,reading,listning
+								maitri  hands,legs,head,hands...speaking,rading,listning 
+						data members and member function 
+						Person ---class
+							c_no,name,address ---data memebers 
+							displayData(),getData() ---- member funciton
+
+				Object --- it is type of class
+							It is real entity
+							each object have it's own data and member function
+							person Vidhi
+							Person Maitri
+
+
+
+							
+						
+2. inheritance
+3. encapsulation
+4. abstraction
+5. polymorphisum
+
+
 
