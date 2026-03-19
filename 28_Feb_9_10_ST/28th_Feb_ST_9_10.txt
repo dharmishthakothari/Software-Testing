@@ -318,6 +318,17 @@ requ3		Y		Y		Y		N
 STLC
 
 next Test Scenarios , Test cases 
+19th March 
+---QA/QC
+--Testing/Debugging
+---Tester/Test Leader-Test managers
+
+Test sceanario and Test case
+scenario ---condition///what to test
+test cases ----details of conditions///how to test
+
+Lab Task : https://careercenter.tops-int.com/dashboard
+
 
 			
 	
