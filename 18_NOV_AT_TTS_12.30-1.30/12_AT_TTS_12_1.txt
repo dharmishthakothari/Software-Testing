@@ -507,4 +507,18 @@ array
 5. polymorphisum
 
 
+21st March
+--class is blueprint
+--object real entity
+
+create employee class having data as name,emp_id,salary
+
+Lab Task : Create a class Product with:
+Fields: name, price
+Method: displayDetails()
+---Display 10 products 
+
+create a class Vehical with model,price,color
+displayDetails()
+---Display 3 cars
 
