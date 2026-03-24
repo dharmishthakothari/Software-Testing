@@ -331,7 +331,51 @@ Lab Task : https://careercenter.tops-int.com/dashboard
 
 21st March
 -----
-			
+
+24th March 
+
+Lab Task : Search test cases of bookmyshow
+
+--- Positive testing ---> Testing with valid data is called positive testing
+Nagative testing ---> Testing with invalid data is called nagative testing
+
+Login Nagative test scenario 
+-invalid username , valid password
+--valid username and invalid pass
+--blank fields
+--invalid both the fields
+--
+
+Difference between Expected and actual result is called pass/fail
+valid and invalid data is abput +tive / -tivetesting
+
+-----
+Testing Levels 
+
+----- >Unit Testing
+---->Integeration Testing ----
+			approach ---- Big-bang approach   --- all modules are interated and then tested as one
+						  Top-down approach    --- Top modules are ready to test but bottom yet to 
+												develop , dummy module stub 
+						 Bottom up Approach   ---bottoam module are ready and top are not developed yet so here dummy module driver 
+
+---System testing 
+ ----After combining all the modules together works as whole system we are checking whether it work as exptected .
+---black box testing technique
+---tester 
+
+
+---Componenent integration testing   ---
+--System integration testing   -after system testing 
+
+---Acceptance testing ---- Accouring to client application is working or not ..
+							Client/Customer requirement checking/satisfaction
+							Alpha and beta testing
+
+					
+
+
+
 	
 
 
