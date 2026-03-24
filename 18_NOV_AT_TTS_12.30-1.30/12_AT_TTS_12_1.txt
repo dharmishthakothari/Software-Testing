@@ -522,3 +522,37 @@ create a class Vehical with model,price,color
 displayDetails()
 ---Display 3 cars
 
+24th March
+
+class - object
+inheritance --- parent -child 
+resuability 
+one class can use property of another class
+Person		name,c_no,email,address....
+Employee	name,c_no,email,address,dept_name,salary
+Student 	name,c_no,email,address,semster,marks,
+Worker
+Doctor
+
+1. extends 
+class A
+{
+	void greet()
+	{
+		soup("Good Morning");
+	}
+}
+class B extends A
+{
+}
+
+Person -- getDetails ,display
+Employee ---getDetails ,display,getDetails1,display1
+
+Constructors --- to initlize objects 
+---have a same name as class name
+--calls automatically
+
+Lab Task : method vs contructor
+
+	
