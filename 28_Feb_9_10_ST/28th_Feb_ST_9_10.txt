@@ -375,7 +375,17 @@ Testing Levels
 					
 
 
+--Static Testing/Dynamic Testing
+ --- Estimation ?
+function --- budget 
+			 planning
+			 time
+		no of persons
+		efforts 
+		involve 
 
+Complete all Test cases and Test scenario ...
+link --proejct 
 	
 
 
