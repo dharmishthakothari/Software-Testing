@@ -554,5 +554,28 @@ Constructors --- to initlize objects
 --calls automatically
 
 Lab Task : method vs contructor
+28th march
+ --- Inheritance 
+--
+1234---
+no_of_digit -- 4
+1^4 = 1
+2^4 = 16
+3^4 = 81
+4^4 = 
+
+153 === 3
+1^3 == 1
+5^3 === 125
+3^3 === 27
+
+Polymorphisum ---
+ ---- more then one form 
+2 types of polymorphiusm 
+i) Compile time  ---Method overloading (same method name , arguments are different)
+					
+ii)Run time 
+
+LabTask : read OOPS class/object , inheritance,Poly -overriding
 
 	
