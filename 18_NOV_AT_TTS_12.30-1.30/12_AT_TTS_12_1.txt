@@ -579,3 +579,36 @@ ii)Run time
 LabTask : read OOPS class/object , inheritance,Poly -overriding
 
 	
+31st March 
+--
+OOPS ---class/object   --blue print/real entity 
+        Polymorphisum  ---many form 
+		inheritance   --- reusability 
+		encalsulation
+		abstraction
+
+polymorphisum --- Ability to take more then one form 
+----2 types compile time  --- method overloading --same method name / different argument 
+								addition(int,int)
+								addition(int,int,int)
+								addition(int,doulbe,doulbe)
+            Run time     ---method overiding --same method name / same argument 
+						 parent-child 
+						 Shape no getArea=0
+
+LabTask : override getArea method in Circle class 
+
+encapsulation ---binding of data and functions together .Data are restricted.
+
+data are protected/private . 
+we have to create gettter/setter to access those data.
+
+----abstraction ? 
+showing essential details and hiding other details 
+---class   ---- when class is abstract then you can not create object ...
+				always has subclass.
+----method --- no body /only declaration ,abstract method must be override 
+				if a class has one method as abstract then that class becomes abstract class.
+
+
+
