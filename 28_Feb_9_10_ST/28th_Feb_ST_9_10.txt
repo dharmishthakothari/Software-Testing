@@ -387,6 +387,36 @@ function --- budget
 Complete all Test cases and Test scenario ...
 link --proejct 
 	
+31st March 
+Types of Testing ----- Static(Review/walthrough/inspection)/Dynamic (functional/non-functional)
+Test levels ---> Unit testing,Integration,System ,acceptance(Alfa/Beta) 
+Test Design Techniques --->Black box testing,White box testing,experienced based testing
+
+
+-- Black box testing 
+1. To test without knowing internal structure.Tester has to concern for input and output.
+2. Generally Testers are doing black box testing
+
+Techniques for Black box testing
+i)Equivance Partitition 
+  ---valid/invalid 
+
+ii)BVA Boundry Value Analysis
+age 18-60
+if age>=18 and age<60:
+
+iii) Dicision Table Testing 
+--->
+Sunday --- where  ---- kankaatiyra , alpha one , 
+           time    ---  5 
+		   bugdet   --- 2000
+           how   ---- metro , amts , personal 
+
+			Kankariya , metro , 2 hours 
+			Placement start ---> assessnment , aaaignment , mock , fees --- start placment
+								Assessmet , mock fees ---start placement
+                                mock , fees ---doubt placement 
+
 
 
 
