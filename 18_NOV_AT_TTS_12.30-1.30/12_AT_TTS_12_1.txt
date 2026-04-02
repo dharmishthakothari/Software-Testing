@@ -610,5 +610,30 @@ showing essential details and hiding other details
 ----method --- no body /only declaration ,abstract method must be override 
 				if a class has one method as abstract then that class becomes abstract class.
 
+2nd April 
 
+OOPS 
+class/Object/Inheritance/Polymorphisum/Encapsulation 
+
+abstraction --- 
+
+interface ----- is 100% abstract
+you can implements more then one interface at a time
+interface data are final(constant) by default
+
+--- Exceptions 
+-stops the normal flow of execution
+-when exceptio occurs it thow the exception and program stops executing
+2 types 
+checked and unchecked
+checked exception always use try and catch block 
+try
+catch
+finally
+throws
+FileInputStream 
+
+LabTask : read interfaces , try/catch
+
+class vs abstract vs interface 
 
