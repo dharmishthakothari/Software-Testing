@@ -419,9 +419,49 @@ Sunday --- where  ---- kankaatiyra , alpha one ,
 
 
 
+2nd April 
+---Black Box Testing ?
+
+-What is Testing? 
+-Objectives of Testing
+-What is Exhausative testing
+-What is static testing?
+-Testing Activities 
 
 
-		
+Black box Testing --- testing software with input/output without knwing internal structure 
+
+
+state transition 
+---1st pin incorrect msg-reject    ---1st pin access acount
+--2nd time pin incorrect msg-reject
+--3rd time block the card
+specification based testing/black box testing
+
+
+WHITE BOX TESTING --- internal structure is knows and doing testing
+generally developers are doing this testing.
+code knowledege is require.
+glass box/structure based
+
+Statement Coverage ---- All program stmt must executed 
+condition --all conditions should cover 
+branch coverage ---- all conditions should cover 
+path coverage ----all path each combination of path must be cover
+
+
+Black box testing vs White box testing
+
+BT ---- > Definition
+
+Bt ---Who
+
+eg .
+
+techniques
+
+where to use BT System testing
+WT -- unit testing
 
 
 
