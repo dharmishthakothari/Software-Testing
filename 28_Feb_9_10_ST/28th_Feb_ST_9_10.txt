@@ -463,5 +463,29 @@ techniques
 where to use BT System testing
 WT -- unit testing
 
+4th April 
+Black box testing  ----- specification based ---input and focus on output
+White box testing ----glass box/structured based ---- knowledge of internal structure
+Experinced bases testing ? ----> limited knowledge of internal structure.
+							---->time limit 
+							---->expereinced/skill persons
+						expereinced persons know defect possibility area 
+
+
+Exploratory testing is process to leanr , test desing ,execution and adapt simutanoulsy 
+----
+
+Regression Testing ? 
+           When code changes,performance issued fixes , requirement changes 
+			to check already working funcitonality/software doesn't affect is called regression testing.
+			---We have to run already passed test cases .
+			---Methods
+				Retest all
+				Based on Priority
+				Based on Risk 
+Retesting --- When failed test cases is fixed by developer and then we again check wheter this defect fixed or not is called retesting
+
+			-- We to run failed test cases again.
+			
 
 
