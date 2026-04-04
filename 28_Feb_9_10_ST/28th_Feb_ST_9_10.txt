@@ -488,4 +488,4 @@ Retesting --- When failed test cases is fixed by developer and then we again che
 			-- We to run failed test cases again.
 			
 
-
+LAB TASK : ALL TEST CASES OF ASSIGNMENT MUST BE COMPLETED .
