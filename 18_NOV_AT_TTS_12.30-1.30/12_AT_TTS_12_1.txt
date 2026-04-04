@@ -637,3 +637,16 @@ LabTask : read interfaces , try/catch
 
 class vs abstract vs interface 
 
+4th April
+we can have mutiple  catch blocks
+finally --- it will always executes 
+
+
+FileHandling  ---- 
+
+Stream 2
+character ---- Stream  ---FileInputStream / FileOutputStream
+byte by byte  ---Reader ----FileReader / FileWriter
+LabTask : Write into file.
+
+
