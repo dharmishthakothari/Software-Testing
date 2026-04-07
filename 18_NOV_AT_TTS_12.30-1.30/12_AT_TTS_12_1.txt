@@ -649,4 +649,22 @@ character ---- Stream  ---FileInputStream / FileOutputStream
 byte by byte  ---Reader ----FileReader / FileWriter
 LabTask : Write into file.
 
+7th April 
+---
+
+Collection ----
+group of data
+---List ordered , duplicate
+---Set  unordered , doesn't duplicate
+
+ArrayList 
+
+LAbTask : Iterator 
+2. lst=[11,22,33,44]
+11--->Odd
+22--->Even
+33--->Odd
+44--->Even
+
+
 
