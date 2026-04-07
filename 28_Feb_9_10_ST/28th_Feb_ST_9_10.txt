@@ -489,3 +489,25 @@ Retesting --- When failed test cases is fixed by developer and then we again che
 			
 
 LAB TASK : ALL TEST CASES OF ASSIGNMENT MUST BE COMPLETED .
+
+7th April 
+
+Test plan Document
+----High Level Document 
+contains all plan for testing activities 
+scope 
+out of scope
+Resource --men power ,hours , budget
+Tools and Technolgies
+Training required 
+Roles and Responsibilty 
+Functionality 
+
+----Regression and retesting
+ ----
+
+LabTask : Skill for fresher ST
+Test cases 
+
+
+
