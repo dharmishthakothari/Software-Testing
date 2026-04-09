@@ -666,5 +666,16 @@ LAbTask : Iterator
 33--->Odd
 44--->Even
 
+9th April 
+HashSet  --- it is collection . it stores only dublicate element.
+[1,2,3]
+1
+2
+3
+
+Collection 
+one by one
+Iterator  --- in built interface 
+
 
 
