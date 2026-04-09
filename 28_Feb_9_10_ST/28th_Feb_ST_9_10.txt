@@ -509,5 +509,12 @@ Functionality
 LabTask : Skill for fresher ST
 Test cases 
 
+System TEsting -
+Component Integration Testing  ---- before system testing
+System Integration Testing   ---after system testing
+End to End Testing  ---- after system testing
+
+AGILE ----- 
+   menifesto 
 
 
