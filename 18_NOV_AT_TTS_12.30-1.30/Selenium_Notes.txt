@@ -1,0 +1,20 @@
+Selenium ? 
+- Tool
+- framwork
+-opensouce
+-active community 
+- Automation testing tool , to test web application .
+--Selenium Suite (Selenium IDE , Selenium WebDriver , Selenium RC , Selenium Grid)
+---Selenium IDE 
+        browser pulg in 
+        add to browser and 
+        record and Play
+        No programming knowledge 
+        Firefox plugin
+
+---LabTask :
+Selenium.dev 
+downloads 
+documents
+Supports 
+click assert title 
