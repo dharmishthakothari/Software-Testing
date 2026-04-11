@@ -517,4 +517,16 @@ End to End Testing  ---- after system testing
 AGILE ----- 
    menifesto 
 
+11th April 
+
+Agile
+	Scrum 
+		Sprint
+			Product Backlog
+			Sprint Planning
+			Sprint Backlog
+			Daily Statusup
+			Retrospective
+JIRA
+
 
