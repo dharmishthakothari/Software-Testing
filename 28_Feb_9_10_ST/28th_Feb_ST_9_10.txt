@@ -529,4 +529,22 @@ Agile
 			Retrospective
 JIRA
 
+14th April 
+
+Defect ---- Deviation between exptected and actual result
+When test case is going to fail then that consider as defect/bug
+
+Defect Life Cycle 
+--- new 
+ open
+
+Severity --- in terms of impact to other functions --- how imapct to other functionality --- 
+Priority ---- in terms of time -- how quick we have to fix it
+
+business perspective
+example of high priority and high severity
+example of high priority low severity
+example of low p and high severity
+example of low p low s
+
 
