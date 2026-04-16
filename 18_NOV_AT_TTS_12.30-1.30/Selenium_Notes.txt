@@ -33,3 +33,13 @@ WebApplication , browser
 
 WebDriver  ---API 
 
+16th April 
+----    WebDriver read  ---- get , findElement , getCurrentURL , getTitle
+        WebElement ---- getAttribute , sendKeys , click
+        Locator --- 6   id name linktext partiallinktest tabname xpath cssSelector
+
+
+
+
+
+
