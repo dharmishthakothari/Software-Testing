@@ -38,6 +38,12 @@ WebDriver  ---API
         WebElement ---- getAttribute , sendKeys , click
         Locator --- 6   id name linktext partiallinktest tabname xpath cssSelector
 
+18th April
+--- check Login 
+1. Open browser
+2. Enter URL
+3. Enter username , Enter Password 
+4. Click on submit
 
 
 
