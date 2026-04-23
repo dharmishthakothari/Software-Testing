@@ -547,4 +547,31 @@ example of high priority low severity
 example of low p and high severity
 example of low p low s
 
+Live Application 
 
+Resonsive 
+Mobile apps
+
+Database Testing 
+--- collection data 
+---permanent storage
+--To manipulate data
+--connection between tables/data
+--Tools 
+			MySQL , MS Sqlserver , postgre , ms access , oracle ....
+	SQL --- Structure Query Language 
+
+	MYSQL --  
+creating table 
+
+create table <<table_name>> (column_name data_type (size) ,
+column_name data_type(size),
+column_name data_type(size)....)
+
+name , email , c_no , address , degree
+varchar  --- character numeric
+date --- date
+int  ---- numeric
+decimal --- numeric and decimal 
+
+insert into <<table_name>> values(valu1,valu2,valu3)
