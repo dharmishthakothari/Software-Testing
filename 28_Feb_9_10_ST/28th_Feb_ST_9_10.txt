@@ -564,9 +564,9 @@ Database Testing
 	MYSQL --  
 creating table 
 
-create table <<table_name>> (column_name data_type (size) ,
-column_name data_type(size),
-column_name data_type(size)....)
+create table <<table_name>> (column_name data_type (size) constrains ,
+column_name data_type(size) constrains,
+column_name data_type(size) constrains....)
 
 name , email , c_no , address , degree
 varchar  --- character numeric
@@ -575,3 +575,53 @@ int  ---- numeric
 decimal --- numeric and decimal 
 
 insert into <<table_name>> values(valu1,valu2,valu3)
+
+25th April 
+
+insert 
+delete 
+update
+
+constraints 
+Primary key  ----- Unique key + Not Null 
+			 --- To uniquely indetify record 
+				roll_no , employee_id , order_id 
+Foreigh key   ---- references to another table
+		department_table --- did(PK) dname
+							101  Software
+							102  Networking
+							103  Designing
+		Employee_table --- eid ename did(FK)
+						   1   dharmishtha  101
+						   2   Nirav     101
+						   3 Anajali     101
+						   4 . Dhiraj    103
+		
+
+Customer_table  ---- cid(PK) ,cname , c_no ,
+Order_details   --- order_id , c_id(FK) , qty 
+
+Unique key   ---- To add unique value , it allows you one value as NULL value
+
+Not null 	---- value must be entered 
+
+update table_name set column_name = value where column_name=value
+
+Labtask : 
+create table department - did(pk) , dname   ---- insert 5 records 
+create table employee - eid (pk) , ename , salary , did(FK)  --- insert 15 record 
+
+create table department(did int primary key,dname varchar(20))
+
+create table employee(eid int primary key auto_increment ,
+ename varchar(20),
+salary int,
+did int,
+foreign key(did) references department(did))
+----
+create table customer ---- cid(pk) , cname , c_no   ------ 5 records
+create table product ---- pid (pk) , pname , description    5 records
+create table orders_details --- order_id(PK) , cid(FK),pid(fk),qty,order_date  --- 15 records 
+
+
+
