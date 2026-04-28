@@ -46,6 +46,28 @@ WebDriver  ---API
 4. Click on submit
 
 
+LOCATORS --- To identify the webElements 
+id                --- widely used 
+name
+tagname
+cssSelector
+class name
+xpath
+linktext
+partialLinktext
+
+---- link click 
+--- check box 
+
+WebTable 
+
+column / rows / titles 
+
+LabTask : 1 header print
+2. Static table data fetch 
+
+
+
 
 
 
