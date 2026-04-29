@@ -1,0 +1,304 @@
+Core Java
+	basics --- variables- data types - conditional stmt - 	loops - arrays - OOPS(class/object , polymorphism , 	abstraction , 
+	inheritance , abstraction ) ,interfaces , exception 	handling
+	collection 
+	File handling
+
+			
+Selenium IDE
+	plug in - record and play
+	export
+Selenium WebDriver
+	Handling Browser/components 
+	text boxes / radio / check boxes / date / drop down
+	alerts 
+	Actions 
+
+TestNG Framework
+	annotations 
+	assertion
+	report 
+	Parameterzation
+POM - design Pattern
+	
+Maven 
+Data Driven Testing
+
+Java 
+---- object oriented 
+--- verstile
+plateform independet 
+JDK - JRE 
+tools -- notepad , eclipse , intellj ,Antigravity ,VS code
+
+Program structure 
+comments 		--- non executable part 
+			---documentation purose
+// Single line
+
+/*
+multiline comment
+*/
+
+/**
+Documentation comment
+*/
+1-----package stmt (package is collection of classes and sub packages)
+
+2 ---import stmt  --- use some other pakaceges
+3.--- class declaration  ---- code/script
+
+main () --- from where execution starts 
+block of code is method 
+
+Hello World 
+
+My name is Rohit
+My age is 20
+
+My name is Yash
+My age is 21
+
+My name dharmishtha
+My age is 30
+
+as variable name ,age 
+variable --- identifier ,which value can be changed 
+declara variable
+
+datatype variablename 
+data type === which kind of data you want to store 
+age numbers
+name characters
+c_no numbers
+email characters 
+
+Primitive --- int , float , double ,boolean , char , long ,shot ,byte 
+non decimal (int , long)
+short age;
+long c_no;
+float salary;
+
+Lab Task : 1. installation 
+2. program 
+
+17th April 
+
+i will ask name from user , address , email , c_no
+
+Scanner class ---- when i have to ask data from user
+like name , salary ,age ,email 
+
+Scanner obj=new Scanner(System.in);
+sop("Enter name");
+name=obj.next();
+sop("You have entered "+name)
+
+
+--- operators & conditional stmt 
+Arithmatic operator
++  12+23
+12-23
+12*23
+12/23
+
+-
+*
+/
+
+LabTask : 
+1. use - , * , / with int
+2. use - , * , / with flaot
+3. ask data from user (name ,email , dept_name , salary ,age)
+   display on console
+4. ask student data from user (name , mark1 , mark2 , mark3 ) and display total with student name
+Tarun
+90
+70
+80
+output  Total of Tarun is 240 
+sysout("Total of"+name+"is"+total)
+
+
+24th April
+-- Introduction 
+--- datatypes 
+--- how we can accept input from user
+--- operations --- arithmatic 
+
+---- 1. relational/comparision operators / use
+ >= , >  , <= , < , != , ==
+12>=20 false
+12<=20 true
+12>20  false
+12<20  true
+12!=20 true
+12==20 false
+
+conditional statement ---- if , if-else , if-elseif 
+
+options then we have to conditional 
+
+if(condition)
+{
+	block of stmt
+}
+
+
+
+no1>0
+
+when i have to combine 2/more conditions then i have to use
+Logical operators 
+
+&& and(returns true when all condition are true)
+||  or (return true when either of condition is true)
+!  not (reverse )
+
+
+print grade 
+conditions ---- A  total_marks 
+100 - 70 A
+69 - 50 B
+49 - 35 C
+otherwise fail
+
+nested if
+
+Lab Task : if conditons practise 
+
+
+27th April 
+--- conditional statement
+--- variables / packages / datatypes
+-- installation
+-- jdk/JRE
+-- operators 
+-- comments 
+-- conditional stmt (if , if-else , if-elseif - nested if)
+-- operators (arithmatic operators , relational operators , logical operators )
+--- assignment operators (+= , -= , *= , /= )
+
+a=10
+
+increment a by 5
+
+a=a+5
+same
+a+=5
+
+decrement by 5
+a=a-5 equvivalent a-=5
+
+--- increment and decrement 
+increment a with  1
+a=5
+a++ (a=a+1)(postfix)
+++a ( prefix)
+a--
+--a
+
+switch case ----- when you have too many conditions then you have to use switch case :
+
+
+--Loops 
+--repeatation ---- print "Hello World" 
+10 time
+sop 10 
+50 times 
+sop 50
+1000 times
+---use loop  --- will run/repeat until condition is satisfied 
+
+--3 
+i) for loop
+for(initlization ; condition ; increment/decrement)
+{
+	block_of_code
+}
+for(int i=1;i<=10;i++)
+{
+	sop("Hello World");
+}
+i ) i=1 (initlize only once)
+ii) check condition 
+iii) execute block of code
+iv) increment/decrement
+v) again check the condition 
+  (if condition is true 
+	then again execute the block of code and then 
+again goto increment/decrement
+....
+it will repeat until condition is true
+
+
+29th April 
+---- switch 
+--- operators (assignment += ... increment/decrement)
+---loops (theory)
+
+
+Lab Task : if user enters even number then print table otherwise
+give msg enter only Even number
+
+
+--- check number is divisable by 7 or not 
+19 / 7 ----- divisable 
+% /    --- gives you reminder
+
+
+while -- repeatations 
+      --- while(condition)
+	 {
+		block_of_stmt
+	 }
+
+		-- when no of iteration not known in advance then use while loop
+--entry control loop
+
+Menu Driven Program 
+Press 1 For order Pizza
+press 2 For order Idely
+Press 3 For Order dosa
+Press 4 for next menu
+press 5 for exit
+
+	
+do ---- exit control loop
+first it will execute and check the condition 
+do
+{
+ 	block of code
+}while(condition);
+
+---it will always excute once 
+
+---Menu Driven Program 
+1. Addition
+2. Substraction
+3. Division
+4. Multiplication
+5. Exit
+Enter your choice 1:
+Enter 2 number 
+12
+23
+Addition = 35
+1. Addition
+2. Substraction
+3. Division
+4. Multiplication
+5. Exit
+Enter your Choice 3
+Enter 2 number 
+12 6
+Divisiosn is 2
+1. Addition
+2. Substraction
+3. Division
+4. Multiplication
+5. Exit
+Enter your Choice 5
+
+
+
