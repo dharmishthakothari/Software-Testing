@@ -623,5 +623,25 @@ create table customer ---- cid(pk) , cname , c_no   ------ 5 records
 create table product ---- pid (pk) , pname , description    5 records
 create table orders_details --- order_id(PK) , cid(FK),pid(fk),qty,order_date  --- 15 records 
 
+30th april
+ SQL Joins
+--- when we want to fetch data from 2 or more tables then we have use join
+---it is based on common filed 
+---relationship between Primarky and Forign key 
+emp   eid ,did (FK)
+dept  did(PK)
+--master table all data you can get it
+
+
+
+when you have condition based on group by then use 'HAVING CLUSE'
+
+like --- to compare with letters 
+fetch details of employees whose name starts with letter a
+fetch details of employee whose name contains letter a
+fetch details of employees whose name ends with letter a
+fetch details of employees whose name have 5th letter as a
+There are 2 metacharacters 1. _ (to check with letter)
+						2. % (to check with multiple letters)
 
 
