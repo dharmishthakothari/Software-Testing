@@ -300,5 +300,49 @@ Divisiosn is 2
 5. Exit
 Enter your Choice 5
 
+1st May 
+Menu Driven Program 
+
+----
+Prime no ? no which is not divisable any no ....1 and no
+7 
+5
+11
+13   2,3,4,5,6,7,8,9,10,11,12
+12   2 --- break , no need to check other numbers 3,4,5,6,7,8,9,10,11
+5   2,3,4
+23
+17
+19
+15  15%2 --- false 15%3 --- true 
+
+Program to check no is prime or not
+1. user input
+2. condition 
+3. loop
+
+Lab Task : instead of temp put sysout ---- 
+check different numbers 
 
 
+No of Digits 
+- 3469 -- output 4 digits
+- 90000 - output 5 digits
+- 812   - output 3 digits 
+
+1. user input
+2. while loop 
+3.	        1st iteration  3469%10 == 9
+							3469/10 = 346
+
+			2nd iteration	346%10 ==6
+							346/10 == 34
+
+			3rd iteration   34%10 = 4
+							34/10  =3
+
+			4th iteration   3%10 = 3
+							3/10 == 0...
+
+Lab Task : sum of digits ---- 3469 = 22
+			count even number and odd number === even 2 and odd 2 
