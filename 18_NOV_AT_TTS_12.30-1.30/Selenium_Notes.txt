@@ -66,8 +66,20 @@ column / rows / titles
 LabTask : 1 header print
 2. Static table data fetch 
 
+2nd May 
 
+Webdriver 
+------------- Webelemts
+                locators 
+                findElement/s 
+                webdriver methods 
+                Coponenets  text box , table , drop down , radio , check , alerts , multiple tabs
+                Wait - implecite wait ,explicate wait 
+        
+date filelds 
 
+right click 
+double click 
 
 
 
