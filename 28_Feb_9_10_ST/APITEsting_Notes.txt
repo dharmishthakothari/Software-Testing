@@ -1,0 +1,15 @@
+API 
+--Application Programming Interface 
+---Google MAP 
+--Logged/Signed with Gmail /Google / 
+
+
+Communication with uper and google map
+comunication with uber and gmail
+communication with uber and gpay
+
+
+1. request 
+2. process (data fetch)
+3. response
+
