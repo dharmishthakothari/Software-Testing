@@ -75,11 +75,34 @@ Webdriver
                 webdriver methods 
                 Coponenets  text box , table , drop down , radio , check , alerts , multiple tabs
                 Wait - implecite wait ,explicate wait 
-        
+         
 date filelds 
 
 right click 
 double click 
+
+
+
+-5th May
+LabTask : https://books.toscrape.com/ click on each category and display no of results found.
+
+
+WebElement 
+------ text box,
+button
+radios
+check box
+drop down
+table 
+tabs 
+drag and drop
+alters 
+date picker
+fowraed - backword 
+
+
+
+
 
 
 
