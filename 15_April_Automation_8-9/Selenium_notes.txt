@@ -346,3 +346,40 @@ No of Digits
 
 Lab Task : sum of digits ---- 3469 = 22
 			count even number and odd number === even 2 and odd 2 
+
+6th May
+
+Array --- 
+10 roll numbers  ---- int rno1=101,rno2=102,rno3=103,rno3=104.....rno10=110
+100 roll numbers ----- 
+array -- group of similar type of elements ---- array of integer numbers
+                                                array of float numbers
+                                                array of short numbers
+
+array declaration 
+array initlization 
+array is special data type
+
+int roll_no[];
+roll_no=new int[100];
+
+array values always accessed thru index  ---- array index always starts from 0 and size-1
+roll_no[0]=101
+roll_no[1]=102
+roll_no[2]=103
+....
+roll_no[99]=900;
+
+--- write java program to add array of elements 
+---write a java program to print number is even or odd from array 
+
+Lab Task : count no of odd and no of even numbers from an array
+
+int[] numbers = { 1, 23, 45, 66, 88, 12, 14, 15, 11 };
+count_even = 4
+count_odd = 5
+
+Sikha --- 2 
+
+--- write a program to add numbers of array from user
+Lab Task --- Array Sum 
