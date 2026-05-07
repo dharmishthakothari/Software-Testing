@@ -101,6 +101,15 @@ date picker
 fowraed - backword 
 
 
+---7th may
+
+TestNG
+
+ANNOTATIONS --- (Metadata - data about the data)
+inbuild annotations 
+starts with @ 
+
+@Test 
 
 
 
