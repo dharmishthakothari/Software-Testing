@@ -383,3 +383,47 @@ Sikha --- 2
 
 --- write a program to add numbers of array from user
 Lab Task --- Array Sum 
+
+8th May
+- size = 3 
+arrNumbers[0]=22
+arrNumbers[1]=11
+arrNumbers[2]=44
+
+arrNumbers[2]=44
+[1]
+[0]
+
+
+---- single dimentional / multi dimentional
+
+2D . 3D 4D....
+row x column  (matrix)
+
+2x2
+0,0   0col 1col
+0 row 11     22
+1 row 3       4 
+
+matrix[1][1] // givem 4
+matrix[0][1]  // give me 22
+
+1 2
+2 3
+3 6
+
+3x3
+1  2  3
+4  5  6
+7  8  9
+
+max=1 
+max -2 3 4 5 6 7 8
+sum of lements from matrix
+
+
+
+OOOPS
+
+
+
