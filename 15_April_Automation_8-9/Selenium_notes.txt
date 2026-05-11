@@ -424,6 +424,42 @@ sum of lements from matrix
 
 
 OOOPS
+11th May
+
+--- OOPS  (Object Oriented Programming)
+
+--  procedure oriented Programming                         /    Object Oreiented Programming
+    C Language (each logic/stmt is in procedure/function)  /    java each stmt/logic is in class 
+
+Object Oriented Prgramming concept 
+---   class / object
+--   Inheritance
+---  Polymorhisum
+--- Abstraction
+--- Encapsulation 
+
+i) class /object 
+- class is blueprint / not actual 
+- class is collection objects
+- class have data members and member functions
+
+class Human
+		data --- hands , legs , head , nose 
+		function --- speaking , listning , reading , eating
+	Human dharmishtha=new Human()
+    dharmishtha ---- is object 
+   Human kanishka = new Human()
+
+
+object - is real entity 
+       object have it's own data and member function 
+       object is real entity 
+
+class is nothing unless you are creating object
+
+create class Employee having data memebers eid ,ename ,salary
+create getDetails () and display
+in Main() create 5 objects of Employee and call get
 
 
 
