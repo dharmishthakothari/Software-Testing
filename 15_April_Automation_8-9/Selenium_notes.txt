@@ -461,5 +461,40 @@ create class Employee having data memebers eid ,ename ,salary
 create getDetails () and display
 in Main() create 5 objects of Employee and call get
 
+---13th May 
 
+constructor 
+---To inilize object constructor are used 
+---They call automatically
+---They having same name as class name
+--They haven't return anything
 
+Person(String name1,String email1,int age1)
+{
+	name=name1;
+	email=email1;
+	age=age1;
+}
+Person p=new Person('sdsd','sdasds@gmail.com',23)
+p.display();
+
+--- Inheritance 
+--- Property of one class can use property of another class
+---Parent-child
+--reusability 
+---is a relationship
+
+Employee --- details eid , name , email , age , salary , department_name
+
+Employee is Person 
+Employee class extends Person class
+-Person class data can be used in Employee 
+
+Person is base , Parent , super class
+Employee is derived , child , sub class
+
+Each java file contains default constructor (no paramerzie construtor)
+
+Lab Task : create Student class extends Person 
+Student --- roll_no , name ,age ,email , marks , stream
+displayStudent
