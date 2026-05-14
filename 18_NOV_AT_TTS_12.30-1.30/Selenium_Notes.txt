@@ -115,6 +115,15 @@ starts with @
 
 --- automation practise  url
 
+14th May 
+---Annotations 
+@Test
+@BeforeTest
+@AfterTest
+@BeforeMethod
+@AfterMethod
+
+
 
 
 
