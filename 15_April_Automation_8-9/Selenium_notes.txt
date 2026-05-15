@@ -498,3 +498,37 @@ Each java file contains default constructor (no paramerzie construtor)
 Lab Task : create Student class extends Person 
 Student --- roll_no , name ,age ,email , marks , stream
 displayStudent
+
+15th May 
+--  Inheritance types 
+i) Single Inheritance    ---- One parent one child
+ii) Multiple Inheritance   ---- 2 parent class and one child class (java is not supporting directly)
+iii) Multilevel Inheritance  --- GrandParents - Parent - child 
+iv) Hierchical Inheritance  --- 1 can be used 2 classes ( Person Employee/Student)
+v) Hybrid Ineheritance    --- above of any 2 combination 
+class A
+{
+}
+class B extends class A
+{
+}
+class C extends class B
+{
+}
+
+Polymorphisum ---- Ability to take more than one form / one name to many forms 
+                    Kaniska --- daughter , Employee , student , sister 
+2 types 
+
+i) compile time/static binding    ---- method overloading (same method name , diffrent argument)
+                                     -- it is deside at compile time which method is called 
+ii) runtime /dynamic binding ----- (method overriding (same method name , same argument )
+								-- At the time of execution it is desiding which method is calling.
+
+---Lab Task -- Person --display Employee override display method 
+
+
+
+
+
+
