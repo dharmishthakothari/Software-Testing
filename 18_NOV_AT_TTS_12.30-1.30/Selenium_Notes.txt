@@ -123,6 +123,20 @@ starts with @
 @BeforeMethod
 @AfterMethod
 
+16th May 
+--TestNG ---Test ke  attribute
+priority
+enabled
+dependsongroups , dependeonmethod
+sequence --- i)init ii) addtion iii) substarction 
+
+---dependsonmethod
+---dependesongroup
+--assertion
+---softessertion
+--invocationcount
+
+
 
 
 
