@@ -527,6 +527,47 @@ ii) runtime /dynamic binding ----- (method overriding (same method name , same a
 
 ---Lab Task -- Person --display Employee override display method 
 
+--18th May 
+--- 2 types 
+comiple time  (method overloading - same method name - different argument)
+run time    (method overriding - same method name - same arguments)
+
+
+--abstraction (summary - adhura -)
+-- showing only essential details and hiding other details 
+
+--abstract methods / class 
+
+i) abstract class having one/more abstract method , abstract-non abstract method
+ii) abstract class can not instantiate (can't create object of abstract class)
+iii) abstract method no body/implementatio n only initlization 
+iv) abstract method must be override in sub class.
+
+---Shape  abstract class
+calculateArea ---- abstract
+square --- override calculateArea
+
+at a  time we can extends only one class 
+-multile inhritance is not supported 
+
+--- interfaces are the 100% abstract (sari methods abstract)
+--one class can implements more then one interface
+
+--- interview class vs interface
+i)thru the class we can create object , interface can't object
+ii)class have abstract / non abstract method  , interface have only public abstract method
+iii)class data final/not final data , interface data are by default final(jiske value change na ho) 
+iv) class can be extends one a time , implements more then one interfaces 
+.
+class vs abstract class
+i)object
+ii)class non abstract/concret method , abstract class having at least one method abstract
+iii)abstract class's abstract method must be override in sub class
+
+
+
+
+
 
 
 
