@@ -137,6 +137,15 @@ sequence --- i)init ii) addtion iii) substarction
 --invocationcount
 
 
+19th May 
+
+Paramterization 
+--- when we want to execute script with multiple data 
+i) xml
+ii) dataprovider 
+
+
+Lab Task : Register 5 user with DataProvider 
 
 
 
