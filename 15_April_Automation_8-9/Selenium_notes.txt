@@ -564,6 +564,50 @@ i)object
 ii)class non abstract/concret method , abstract class having at least one method abstract
 iii)abstract class's abstract method must be override in sub class
 
+--20th May 
+
+--- > abstract class vs interfaces vs class
+
+OOPS
+--class/object
+---Inheritance
+--Polymorphisum (compile time (method overloading) run time (method overriding))
+--Abstraction (abstract class , abstract method , interfaces)
+--Encasulation --- Wrapping up of data and member functions into single unit ,
+					using private,protected we can hide a data 
+					Product   ---- pid , pname , qty , price 
+									data are private
+									methods are public 
+
+
+'this' is keyword that is use to refer current object
+Person
+{
+	int c_no,age;
+	String name;
+void getDetails(String name,int c_no,int age)
+{
+	this.name=name;
+	this.c_no=c_no;
+	this.age=age;
+}
+
+
+Exception --- breaks the normal flow of execution 
+          --- array declare 
+			  int[] numbers=new int[10]
+			  numbers[11]=1001;  ///arrayindexoutofbounce
+
+			  int num=scan.nextInt()
+				user enters 12.34
+				exception
+
+
+			
+
+File hnadling
+Collection 
+
 
 
 
