@@ -602,8 +602,31 @@ Exception --- breaks the normal flow of execution
 				user enters 12.34
 				exception
 
+22nd May 
+Exception --- 
+			Runtime time/unchecked ---- automatically handle  ---- ArrayoutofBounds / InputMismatched / ArithmaticException
+			compile time/checked   -----You have to handle it --- try-catch block - thows 
 
-			
+Scanner scan=new Scanner(System.in);
+
+FileInputStream fis=new FileInputStream()
+
+throws 
+2 try
+catch ---multiple catches when exception occurs then then it will execute catch block
+finally --- will always executes wheter exception occur or not
+
+---you can create your own exception (customexception )
+
+File reading/writeing 2 ways i) bytes classes ii) char 
+
+InputStream/InputStreamReader---reading (Abstract classes)
+OutputStream/OutputStreamWriter --- writer (abstract class)
+
+byte(Stream classes -- FileInputStream,FileputputStream,BufferredInputStream,BufferredOutputSteam....)
+char(Reader/writer  classes---FileReader,FileWrite,BufferReader,BufferedWriter...)
+
+
 
 File hnadling
 Collection 
