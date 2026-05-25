@@ -627,6 +627,25 @@ byte(Stream classes -- FileInputStream,FileputputStream,BufferredInputStream,Buf
 char(Reader/writer  classes---FileReader,FileWrite,BufferReader,BufferedWriter...)
 
 
+25th May 
+
+---File Reading/File Writing 
+i)byte by byte  ---- stream classes FileinputStream (reading) FileOutputStream (Writing)
+if not exsit then it will give me exception 
+but if you are write a file then if file not exists then it create a file.
+and if file is already exist then it overwrite a file.
+
+FileInputStream - read
+FileOutStream - write
+
+--- Read data from console and write it into file 
+
+
+ii)character by chracter  ---- FileReader / FileWriter 
+
+
+LabTask : use other methods of reading a file
+
 
 File hnadling
 Collection 
