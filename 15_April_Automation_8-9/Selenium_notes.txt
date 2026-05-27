@@ -646,9 +646,28 @@ ii)character by chracter  ---- FileReader / FileWriter
 
 LabTask : use other methods of reading a file
 
+27th May 
+ ---- Stream 
+Reader/writer
 
-File hnadling
-Collection 
+FileWriter
+
+LabTask : Write character by character
+
+Collection  ------ gether some information/data 
+----- group of soemthing / group of elements /group of objects 
+intergers group  ----- int[] numbers=new int[20];
+float group      ----  
+Book ka group   Book[] books=new Book[20];
+
+
+array - collection 
+--index ---- methods
+--storage sequential ----- storage alag (List , Set , Queue)
+ collection --- data store alag aloritham and alag data structure 
+
+
+lab Task : If city is not available in citList then you must add city in ArrayList 
 
 
 
