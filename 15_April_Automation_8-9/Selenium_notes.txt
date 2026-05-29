@@ -670,6 +670,11 @@ array - collection
 lab Task : If city is not available in citList then you must add city in ArrayList 
 
 
+---29th May 
+---- i) Count total no of even/no of odd from an array
+     ii) Create class Book having data memebers isbn , title , price , authour and function is display() (use constructor to initilize object)
+        create a 5 books objects with array and display these book details.
+ iii) create arraylist of mix objects and add perform sum of integer numbers
 
 
 
