@@ -677,9 +677,41 @@ lab Task : If city is not available in citList then you must add city in ArrayLi
  iii) create arraylist of mix objects and add perform sum of integer numbers
 
 
+1st June 
+lst=new Arraylist();
+lst.add("1");
+lst.add(1);
+lst.add("1");
+lst.add(1);
+loop / iterator 
+type -- instance of 
 
 
+List
+Set / Map 
+Set --- unordered and unique elements 
+HashSet/LinkedHashSet --- 
+List  --- ordeed and dublicate elements 
+---addAll / pass Object to contructor 
 
+--- Patterns Program 
+nested loop (rowxcolumn)
+      c1 c2 c3 c4
+row=1 * 
+row=2 * *
+row=3 * * *
+row=4 * * * *
+
+Lab Task : print (i) /// print(j)
+1
+1 2
+1 2 3
+1 2 3 4
+
+1
+2 2 
+3 3 3
+4 4 4 4
 
 
 
