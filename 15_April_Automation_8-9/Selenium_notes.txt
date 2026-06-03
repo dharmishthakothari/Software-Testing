@@ -713,5 +713,22 @@ Lab Task : print (i) /// print(j)
 3 3 3
 4 4 4 4
 
+3rd june
 
+---- Selenium --
+Automation testing tool 
+why to do automation -----
+  ---- same task repeatedly 
+  --- efficency 
+  --- faster 
+  ---AI
+Selenium opensource / varierty of languages 
+selenium Suite
+---Selenium IDE               ---- Integrated Development Envirnment ---Record and Play ---plugin/addons ---Firefox --
+---Selenium WebDriver         ---- Supports all browsers/OS , varienty languages , third party frameword , 
+---Selnium Grid   ------   node --- hub  they are connected executing simulanourly 
+
+verify / assert 
+
+check --- exptected / actual 
 
