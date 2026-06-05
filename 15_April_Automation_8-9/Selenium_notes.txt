@@ -732,3 +732,14 @@ verify / assert
 
 check --- exptected / actual 
 
+5th June
+
+-- WebDriver ---- 
+
+Java  - selenium 
+API - Lib - Jar 
+
+
+WebElement ----- Locator ----- id ,name ,linktext , partiallinktext , tagname , classname , cssselector , xpath 
+
+LabTask : click on Downloads , Documentaitons , About , Support and fetch currentURL from each link
