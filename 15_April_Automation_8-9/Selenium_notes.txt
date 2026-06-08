@@ -743,3 +743,28 @@ API - Lib - Jar
 WebElement ----- Locator ----- id ,name ,linktext , partiallinktext , tagname , classname , cssselector , xpath 
 
 LabTask : click on Downloads , Documentaitons , About , Support and fetch currentURL from each link
+
+8th June
+---- 
+Locators     -----(Object Idetification ,----- you are finding elements from web page)
+Enter Name <input type="text" name="username"/>
+
+                   id 
+                   name
+                   tagname
+                   linktext
+                  partialLinkText
+                  className
+                  cssSelector 
+                  xpath  ----- 2 types i) Absolute - from begining (html\body\div....) ii) relative - from middle 
+
+WebElements   ---- textbox ,password , buttons
+
+drop downs 
+---Select class 
+--- i)select by Value  <option>
+    ii) by text
+   iii) by index 
+
+
+
