@@ -766,5 +766,136 @@ drop downs
     ii) by text
    iii) by index 
 
+10th June
+
+Create Classes 
+Book class
+Fields:
+bookId (int)
+title (String)
+author (String)
+isAvailable (boolean)
+Methods:
+getters/setters
+displayBookInfo()
+
+User class
+Fields:
+userId
+name
+Methods:
+displayUserInfo()
+
+Member (Inheritance)
+Extend User
+Extra field:
+issuedBooks (List of books)
+Methods:
+issueBook(Book book)
+returnBook(Book book)
+
+Library class
+Fields:
+List<Book> books
+Map<Integer, Member> members
+Methods:
+addBook(Book book)
+registerMember(Member member)
+searchBookByTitle(String title)
+issueBook(int bookId, int userId)
+returnBook(int bookId, int userId)
+displayAllBooks()
+
+2. Use Collections
+ArrayList<Book> → store books
+HashMap<Integer, Member> → store members
+List<Book> inside Member → issued books
+
+
+Menu-Driven Program (Main Class)
+Create a main() method with options:
+1. Add Book
+2. Register Member
+3. Display Books
+4. Search Book
+5. Issue Book
+6. Return Book
+7. Exit
+
+Exersice --- 
+
+Online Food Ordering System (Console-Based)
+FoodItem class
+Fields:
+itemId
+name
+price
+Methods:
+displayItem()
+
+Order class
+Fields:
+orderId
+List<FoodItem> items
+totalAmount
+Methods:
+addItem(FoodItem item)
+calculateTotal()
+displayOrder()
+
+Customer class
+Fields:
+customerId
+name
+List<Order> orders
+Methods:
+placeOrder(Order order)
+viewOrders()
+
+Restaurant class
+Fields:
+List<FoodItem> menu
+Map<Integer, Customer> customers
+Methods:
+addFoodItem(FoodItem item)
+registerCustomer(Customer customer)
+displayMenu()
+findItemById(int id)
+createOrder(int customerId)
+displayAllOrders()
+
+2. Use Collections
+ArrayList<FoodItem> → menu
+ArrayList<Order> → orders per customer
+HashMap<Integer, Customer> → customer storage
+
+3. Core Logic
+Order Creation
+Select multiple food items
+Add them to order
+Calculate total dynamically
+
+Validation
+Check if item exists before adding
+Handle invalid customer ID
+Prevent empty orders
+
+ Billing Logic
+Calculate total price
+(Bonus: apply discount if total > ₹500)
+
+Search Logic
+Search food by name or ID
+4. Menu-Driven Program
+1. Add Food Item
+2. View Menu
+3. Register Customer
+4. Place Order
+5. View Customer Orders
+6. Search Food Item
+7. Exit
+
+
+
 
 
