@@ -896,6 +896,22 @@ Search food by name or ID
 7. Exit
 
 
+22nd June
+
+
+Actions ---- special mouse movement/keyboard events (Drag-drop,right click,double click,mouse hover etc , perform())
+
+Window Handles/Tab Handles  ....
+3 tabs open 
+1. google
+2. amazon
+3. flipkart
+
+Lab Task : open 3 windows and enter different URLs and close first tab
+
+Tables --- row and columns.... 
+no rows no columns 
+
 
 
 
