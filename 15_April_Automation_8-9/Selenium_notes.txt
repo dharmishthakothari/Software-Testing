@@ -912,6 +912,20 @@ Lab Task : open 3 windows and enter different URLs and close first tab
 Tables --- row and columns.... 
 no rows no columns 
 
+24th June
+--- 
+Selenium ----- Locators , WebDriver , WebElement , different coponenets ( radios , checkboxes , dropdown , tables , alerts ....), Windows/Tabs , Wait ,Actions , 
 
+TestNG ------- 
+---- fail/pass report 
+--- configration
+--- reporting
+---annotations  (Data about data - metadata )
+//@Test  ---- annotation 
+public void validLogin()
+{
+     ele.sendKeys("a");
+     ele1.sendKeys("a");
+}
 
 
