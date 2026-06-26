@@ -929,3 +929,29 @@ public void validLogin()
 }
 
 
+26th June
+Lab Task : @BeforeSuite
+@BeforeTest
+@BeforeClass
+@BeforeMethod
+@Test
+@AfterMethod
+@AfterClass
+@AfterTest
+@AfterSuite
+
+implement 
+
+attributes 
+--- groups , dependenceOnMethod, dependsOngroups , enabled , priority , invokationCount
+
+--careercenter
+i) browser open  ---- 1once 
+ii) url  --- each user 
+iii) username password  ----- (janvi , vidhi , sikha , surwarna)
+iv) login click
+
+
+
+
+
