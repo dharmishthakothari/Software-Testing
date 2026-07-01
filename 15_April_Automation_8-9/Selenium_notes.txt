@@ -951,7 +951,17 @@ ii) url  --- each user
 iii) username password  ----- (janvi , vidhi , sikha , surwarna)
 iv) login click
 
+1st July
 
+--Parallal Test ----
+testng.xml --- suite parallal="method"
+-- Parameterization ---- input with different data / running application with different data/ test script with different data
+
+i) xml --- 
+ii)Data Provider ---
+
+annotation 2D array test 
+ --- read data external file (7359145848,Shikha , Surwana)
 
 
 
